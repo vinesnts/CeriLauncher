@@ -1,0 +1,8 @@
+[america]   en-us:    Welcome to Ceri Launcher
+[germany]   de:       Willkommen in Ceri Launcher
+[france]    fr:       Bienvenue chez Ceri Launcher
+[china]     zh-cn:    欢迎来到 Ceri Launcher
+[india]     hi:       Ceri Launcher में आपका स्वागत है
+[czechia]   cz:       Vítejte v destinaci Ceri Launcher
+[spain]     es:       Bienvenidos a Ceri Launcher
+[portugal]  pt:       Bem-vindo ao Ceri Launcher
