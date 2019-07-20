@@ -6,3 +6,21 @@
 [czechia]   cz:       Vítejte v destinaci Ceri Launcher
 [spain]     es:       Bienvenidos a Ceri Launcher
 [portugal]  pt:       Bem-vindo ao Ceri Launcher
+
+[america]   en-us:    Version 1.0.0
+[germany]   de:       Versionsnummer 1.0.0
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+
+[america]   en-us:    Your Android experience is about to become even more beautiful.
+[germany]   de:       Ihr Android-Erlebnis wird noch schöner.
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
