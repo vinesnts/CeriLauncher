@@ -1,6 +1,6 @@
 # Venus
 
-A landing page template.
+A landing page template from https://cruip.com/
 
 * [Getting started](#getting-started)
 
