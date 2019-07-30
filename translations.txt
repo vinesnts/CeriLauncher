@@ -1,4 +1,4 @@
-[america]   en-us:    Welcome to Ceri Launcher
+﻿[america]   en-us:    Welcome to Ceri Launcher
 [germany]   de:       Willkommen in Ceri Launcher
 [france]    fr:       Bienvenue chez Ceri Launcher
 [china]     zh-cn:    欢迎来到 Ceri Launcher
@@ -18,7 +18,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       Za chwilę Twój system Android stanie się jeszcze piękniejszy.
 
 [america]   en-us:    Let's get started.
 [germany]   de:       
