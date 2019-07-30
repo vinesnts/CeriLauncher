@@ -6,15 +6,8 @@
 [czechia]   cz:       Vítejte v destinaci Ceri Launcher
 [spain]     es:       Bienvenidos a Ceri Launcher
 [portugal]  pt:       Bem-vindo ao Ceri Launcher
-
-[america]   en-us:    Version 1.0.0
-[germany]   de:       Versionsnummer 1.0.0
-[france]    fr:       
-[china]     zh-cn:    
-[india]     hi:       
-[czechia]   cz:       
-[spain]     es:       
-[portugal]  pt:       
+[russia]    ru:       Добро пожаловать в Ceri Launcher
+[poland]    pl:       Witamy w Ceri Launcher
 
 [america]   en-us:    Your Android experience is about to become even more beautiful.
 [germany]   de:       Ihr Android-Erlebnis wird noch schöner.
@@ -24,3 +17,107 @@
 [czechia]   cz:       
 [spain]     es:       
 [portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    Let's get started.
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    Choose your style
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    All apps
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    Only favorites
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    Favorites stay at the top
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    Just your favorites, nothing else
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    Swipe down to search
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    One last thing
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+[america]   en-us:    Unlike some other launchers, this one does not collect or send any information from your device, for analytics, advertising or any other purpose. This means I rely completely on user feedback to help make Ceri Launcher better. Please consider joining the Ceri Launcher subreddit or sending me an email with your thoughts. I'd appreciate it a lot! - jckpn
+[germany]   de:       
+[france]    fr:       
+[china]     zh-cn:    
+[india]     hi:       
+[czechia]   cz:       
+[spain]     es:       
+[portugal]  pt:       
+[russia]    ru:       
+[poland]    pl:       	
+
+
+
