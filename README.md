@@ -13,11 +13,17 @@ Say you wanted to add the translation for "All apps" in German, as you noticed i
 1. Open `translations/german.dart`
 2. Ctrl+F to find the line which handles translation for "All apps":
 
-`if (text == "All apps") return text;`
+```
+    case "All apps":
+      return text;
+```
 
 3. `return text` indicates the translation is missing. To add your new translation, replace `text` with the correct translation in quotation marks (`""`):
 
-`if (text == "All apps") return "Alle Apps";`
+```
+    case "All apps":
+      return "Alle Apps";
+```
  
 4. Then just submit a pull request with your changes to the GitHub repo.
 
@@ -25,4 +31,4 @@ Say you wanted to add the translation for "All apps" in German, as you noticed i
 
 Thank you for your help -- any and all contributions are greatly appreciated!
 
- ~ jckpn
+ `- jckpn`
