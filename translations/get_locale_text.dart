@@ -10,12 +10,12 @@ import 'polish.dart' as polish;
 // Only languages with a reasonable amount of translations should be included here
 List<String> supportedLanguages = [
   "English", //     English (US)
-  "Deutsch", //     German
+  //"Deutsch", //     German
   "français", //    French
   "इंडिया", //        Hindi
   "español", //     Spanish
-  "Русский", //     Russian
-  "Polskie", //     Polish
+  //"Русский", //     Russian
+  //"Polskie", //     Polish
 
   //"čeština", //     Czech
   //"português", //   Portuguese
@@ -30,12 +30,21 @@ List<String> supportedLanguages = [
 String getLocaleText(text) {
   String lang = storage.language?.value;
 
-  if (lang == "Deutsch") return german.translate(text);
-  if (lang == "français") return french.translate(text);
-  if (lang == "इंडिया") return hindi.translate(text);
-  if (lang == "español") return spanish.translate(text);
-  if (lang == "Русский") return russian.translate(text);
-  if (lang == "Polskie") return polish.translate(text);
+  if (lang != null)
+    switch (lang) {
+      case "Deutsch":
+        return german.translate(text);
+      case "français":
+        return french.translate(text);
+      case "इंडिया":
+        return hindi.translate(text);
+      case "español":
+        return spanish.translate(text);
+      case "Русский":
+        return russian.translate(text);
+      case "Polskie":
+        return polish.translate(text);
+    }
 
   return text;
 }

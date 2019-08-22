@@ -1,28 +1,53 @@
+// LANGUAGE TRANSLATION TEMPLATE
+// Includes all text within Ceri Launcher as of 1.8.0-beta
+
 String translate(text) {
   switch (text) {
+    //
+    // ----- LOADING TEXT -----
+    //
+
+    case "getting app info":
+      return text;
+    case "loading page":
+      return text;
+    case "loading preferences":
+      return text;
+    case "loading settings":
+      return text;
+
     //
     // ----- SETUP -----
     //
 
     case "Welcome to":
-      return "Wilkommen in";
+      return text;
     case "Ceri Launcher":
-      return "Ceri Launcher";
+      return text;
 
     case "Swipe left to start":
-      return "Zum Starten nach links wischen";
+      return text;
 
     case "Select language":
-      return "Sprache wählen";
+      return text;
+
+    case "All languages (other than English) are translated by the community. Some translations may be incorrect or missing.":
+      return text;
+
+    case "More languages coming soon":
+      return text;
+
+    case "Choose your style":
+      return text;
 
     case "Choose style":
-      return "Wählen Sie Ihren Stil";
+      return text;
 
     case "All apps":
-      return "Alle Apps";
+      return text;
 
     case "Only favorites":
-      return "Nur Favoriten";
+      return text;
 
     case "Tray":
       return text;
@@ -33,6 +58,9 @@ String translate(text) {
     case "Please choose an option to continue":
       return text;
 
+    case "Choose your layout":
+      return text;
+
     case "Choose layout":
       return text;
 
@@ -40,6 +68,9 @@ String translate(text) {
       return text;
 
     case "Honeycomb":
+      return text;
+
+    case "Choose your Ceri widget":
       return text;
 
     case "Choose Ceri widget":
@@ -68,7 +99,7 @@ String translate(text) {
 
     case "I'm an 18-year-old UK maths student trying to save money to study Cyber Security at university.":
       return text;
-    case "If you want access to all features and you don't mind sparing ~\$2, I would be incredibly grateful!":
+    case "If you want access to all features and you don't mind sparing £2, I would be incredibly grateful!":
       return text;
 
     case "Upgrade to pro":
@@ -90,19 +121,21 @@ String translate(text) {
       return text;
 
     case "I rely completely on user feedback to help make Ceri Launcher better.":
-      return "Ich verlasse mich vollständig auf das Feedback der Benutzer, um den Ceri Launcher besser zu machen.";
+      return text;
     case "Please consider joining":
-      return "Bitte denken Sie daran,";
+      return text;
     case "the Ceri Launcher subreddit":
-      return "dem Ceri Launcher Subreddit beizutreten";
+      return text;
     case "or sending me an email with your thoughts.":
-      return "oder mir eine E-Mail mit Ihren Gedanken zu schicken.";
+      return text;
     case "I'd appreciate it a lot!":
-      return "Ich würde es sehr zu schätzen wissen!";
+      return text;
     case "Hope you enjoy,":
       return text;
 
-    case "Tap anywhere to see your new home":
+    case "Tap anywhere":
+      return text;
+    case "to see your new home":
       return text;
 
     //
@@ -167,16 +200,6 @@ String translate(text) {
     case "Device settings":
       return text;
     case "Open the standard settings app":
-      return text;
-
-    case "Upgrade to pro":
-      return text;
-    case "Support me and access all current and future features!":
-      return text;
-
-    case "Restore purchase":
-      return text;
-    case "Already supported the project?":
       return text;
 
     case "Style":
@@ -264,7 +287,7 @@ String translate(text) {
     case "Change the language for the Ceri Launcher interface":
       return text;
 
-    case "Add translations":
+    case "Add or improve translations":
       return text;
     case "Use your language skills to help make Ceri Launcher better. These translations will be added periodically in future updates.":
       return text;
@@ -341,7 +364,7 @@ String translate(text) {
 
     case "Nothing set":
       return text;
-    case "Choose a package":
+    case "Select package":
       return text;
     case "Actions will be launchable with gestures in an upcoming update.":
       return text;
