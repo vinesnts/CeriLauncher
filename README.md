@@ -6,7 +6,7 @@ Strings passed through this function are checked for translations in the user's 
 
 The function has been separated into individual languages for easier contributions.
 
-# Intructions/example
+# Instructions/example
 
 Say you wanted to add the translation for "All apps" in German, as you noticed it to be missing within the app.
 
