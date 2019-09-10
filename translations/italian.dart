@@ -8,13 +8,13 @@ String translate(text) {
     //
 
     case "getting app info":
-      return "Recupero informazioni";
+      return text;
     case "loading page":
-      return "Caricamento pagina";
+      return text;
     case "loading preferences":
-      return "Caricamento preferenze";
+      return text;
     case "loading settings":
-      return "Caricamento impostazioni";
+      return text;
 
     //
     // ----- SETUP -----
