@@ -195,7 +195,7 @@ String translate(text) {
 
     case "Style":
       return text;
-    case "Choose style (All apps, Only favorites, Tray:, toggle app dimming":
+    case "Choose style (All apps, Only favorites, Tray), toggle app dimming":
       return text;
 
     case "Wallpapers":
