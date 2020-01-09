@@ -6,6 +6,7 @@ import 'spanish.dart' as spanish;
 import 'italian.dart' as italian;
 import 'russian.dart' as russian;
 import 'polish.dart' as polish;
+import 'portuguese.dart' as portuguese;
 
 // Supported languages
 // Only languages with a reasonable amount of translations should be included here
@@ -20,7 +21,7 @@ List<String> supportedLanguages = [
   //"Polskie", //       Polish
 
   //"čeština", //       Czech
-  //"português", //     Portuguese
+  "português", //     Portuguese
 //"普通話", //          Mandarin?
   //"Hrvatski", //      Croatian
   //"dansk", //         Danish
@@ -48,6 +49,8 @@ String getLocaleText(text) {
         return russian.translate(text);
       case "Polskie":
         return polish.translate(text);
+      case "Portuguese":
+        return portuguese.translate(text);
     }
 
   return text;
